@@ -42,3 +42,5 @@ public class TelcoPromo {
 <hr>
 
 ### UML Diagram:
+<img width="3452" height="2505" alt="image" src="https://github.com/user-attachments/assets/e59f2b6e-5882-43e9-8318-bce4cfc6f77f" />
+
